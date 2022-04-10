@@ -1,0 +1,7 @@
+1 f)
+No se podia visualizar el archivo tp2_1_2.c porque no estaba
+en la rama Opcion_2, me encontraba trabajando en la rama prin
+cipal.La diferencia que noto es la linea que muestra el recorri
+do de el main, y muestra como se desprende la 2da rama.
+La diferencia que se ve al combinar la rama principal con la
+secundaria es que hay una linea que los une
