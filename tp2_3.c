@@ -12,10 +12,10 @@ int main(){
     {
         for(j = 0;j<M; j++)
         {
-            *Pmt= rand() % 100 + 1;//si anda
-            printf("--%d--", *Pmt);
+            *(Pmt + i * M + j)=1+rand()%100;
+            printf("%d ", *(Pmt + i * M + j));
+            
         }
         printf("\n");
-        Pmt=Pmt + (i * N + j);
     }
 }
